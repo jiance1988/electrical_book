@@ -1,0 +1,6 @@
+[book]
+authors = ["Jesse"]
+language = "en"
+multilingual = false
+src = "src"
+title = "electrical_bool"
