@@ -1,5 +1,7 @@
-# Circuit Breakers
+# Circuit Breakers 断路器
 
 ## Introduction
 
-![alt text](images/image.png)
+1. 常温下铜电缆线径选型应遵守下表要求，例：18A需使用4mm²铜线缆
+   额定电流(A) ：     16； 25；32；40；63；80；100
+   导线截面积≥(mm²) ：2.5； 4； 6；10；16；25； 35
